@@ -70,8 +70,8 @@ Found at the top of the script, safe to change:
 (def min-adc-throttle 0.5)   ; how far throttle must be pressed for secret mode
 (def show-batt-in-idle 1)    ; 1=show battery when still, 0=always show speed
 
-(def eco-speed (/ 7 3.6))    ; eco mode speed limit in km/h
-(def drive-speed (/ 17 3.6)) ; drive mode speed limit in km/h
+(def eco-speed (/ 15 3.6))    ; eco mode speed limit in km/h
+(def drive-speed (/ 20 3.6)) ; drive mode speed limit in km/h
 (def sport-speed (/ 25 3.6)) ; sport mode speed limit in km/h
 (def secret-speed (/ 100 3.6)) ; secret mode speed limit in km/h
 ```
