@@ -6,8 +6,9 @@ A VESC Lisp script for Xiaomi M365/Pro dashboard compatibility.
 
 ## Wiring
 
-<img width="265" height="298" alt="image" src="https://github.com/user-attachments/assets/d86fba31-5be0-4c3d-97ca-a7e1fee57dcd" />
-
+<p align="center">
+  <img src="wiring.svg" alt="Wiring diagram"/>
+</p>
 
 ---
 
